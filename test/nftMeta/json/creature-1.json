@@ -1,0 +1,19 @@
+{
+  "description": "Fierce violet creature. Very durable and tanky.",
+  "image": "https://ivory-bright-bat-89.mypinata.cloud/ipfs/QmWMgBS1jCbLepwb3GnxwAppZFiMuzLVPMsZHy7RUq4rsG",
+  "name": "Dragon",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "100"
+    },
+    {
+      "trait_type": "health",
+      "value": "100"
+    },
+    {
+      "trait_type": "speed",
+      "value": "90"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "description": "Big and strong creature from Ben 10",
+    "image": "https://ivory-bright-bat-89.mypinata.cloud/ipfs/QmVdbdhn9NTw3YpoHn8A7fP1koLqBptn7nCidrR1vDQuYH",
+    "name": "Ultimate Humongosaur",
+    "attributes": [
+      {
+        "trait_type": "attack",
+        "value": "90"
+      },
+      {
+        "trait_type": "health",
+        "value": "80"
+      },
+      {
+        "trait_type": "speed",
+        "value": "30"
+      }
+    ]
+  }
+  
